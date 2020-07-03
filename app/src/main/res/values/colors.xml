@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#20A2B7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#002577</color>
+    <color name="colorStatusBar">#006777</color>
+    <color name="button">#4EB9DB</color>
+    <color name="background">#F5FFFF</color>
+    <color name="tags">#0D3356</color>
+    <color name="editText">#363636</color>
+
+
+
+
+</resources>

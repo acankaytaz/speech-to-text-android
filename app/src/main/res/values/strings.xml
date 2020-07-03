@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HMI Handsfree</string>
+
+    <string name="textView1">Name </string>
+    <string name="editText1"></string>
+    <string name="button1">Talk to add a name</string>
+
+    <string name="textView2">Address</string>
+    <string name="editText2"> </string>
+    <string name="button2">Talk to add an address</string>
+
+    <string name="textView3">email</string>
+    <string name="editText3"> </string>
+    <string name="button3">Talk to add an email</string>
+
+    <string name="textView4">Description</string>
+    <string name="editText4"> </string>
+    <string name="button4">Talk to add a description</string>
+
+    <string name="button5">Emergency button</string>
+
+    <string name="name"></string>
+    <string name="address"></string>
+    <string name="email"></string>
+    <string name="description"></string>
+
+    <string name="nameHint">e.g. Carl Smith</string>
+    <string name="addressHint">e.g. Allendestraße, 123</string>
+    <string name="emailHint">e.g. myemail@domain.com</string>
+    <string name="descriptionHint">e.g. Coworker</string>
+    <string name="captionText"></string>
+
+</resources>
